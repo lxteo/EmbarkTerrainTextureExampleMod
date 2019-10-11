@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Example Terrain Texture Mod</name>
+  <description>Example Terrain Texture Mod</description>
+  <activated>false</activated>
+  <publishId>0</publishId>
+</ModInfo>
