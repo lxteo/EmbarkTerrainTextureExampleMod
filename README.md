@@ -1,4 +1,6 @@
 Example mod to create a terrain texture mod for Embark (https://store.steampowered.com/app/1055090/Embark/).
+More help at main example mod: https://github.com/lxteo/EmbarkExampleMod
+Join our Discord if you have any questions! https://discord.gg/cbUNUVk
 
 # ModInfo.xml
 
